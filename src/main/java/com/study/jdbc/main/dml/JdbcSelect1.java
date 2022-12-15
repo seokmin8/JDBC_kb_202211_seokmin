@@ -1,4 +1,4 @@
-package main.java.com.study.jdbc.main;
+package main.java.com.study.jdbc.main.dml;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 import main.java.com.study.jdbc.util.DBConnection;
 
-public class JdbcTest1 {
+public class JdbcSelect1 {
 
 	// 2개의 프로그램이 합쳐지는 코드
 	
